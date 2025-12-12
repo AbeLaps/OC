@@ -1,7 +1,7 @@
 import numpy as np
 import sys
 
-#Aluno: Abel Andrade Prazeres dos Santos; matricula:22450083
+
 
 #tamanho da ram, modificar a fim de testes mais simples
 TAMRAM = 256
